@@ -16,5 +16,5 @@ def scrape_website(url):
         print(title.get_text())
 
 # URL DE LA PÁGINA A SCRAPEAR
-url = 'https://ejemplo.com'
+url = 'https://www.hackthissite.org/'
 scrape_website(url)
